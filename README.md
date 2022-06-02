@@ -10,7 +10,7 @@ in Spark Cluster, yet as you can see in the image below, 2 cores of a Slave are 
 ![](spark_cluster_01.png)
 
 
-File 'poker_dataset.csv' contains all poker hands possible, ranked as described in 'pokerReadMe.txt'. I attaches sample of a dataset
+File 'poker_dataset.csv' contains all poker hands possible, ranked as described in 'pokerReadMe.txt'. I attach sample of a dataset
 due to limit of 25MB of the file in a repository. Analyse of given dataset shows that after drawing 2 cards from a deck of 52, we gain
 access to no more than 0.75% of all poker hands possible of which more than 50% are nothing more than a High Card. Further analyse of
 a dataset requires code developement but main task of using AWS Cloud to compute is considered done.
